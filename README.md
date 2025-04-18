@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @etinosa Imafidon
-- 👀 I’m interested in Devops, cyber-security and network security
-- 🌱 I’m currently learning Devops, Network and cyber-security
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-
-<!---
-etinosahendrix/etinosahendrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Cybersecurity Analyst with a proven track record in safeguarding organizations against cyber threats. Proficient in network security, vulnerability assessments, and incident response. Hands-on experience in DevSecOps and expertise in cloud security. Skilled in analyzing security logs and implementing robust security measures. Proactively stays updated on emerging threats. Collaborative team player with technical support experience in a Managed Service Provider (MSP) environment. I'm committed to continuous learning and ready to contribute expertise to fortify organizational defenses.
