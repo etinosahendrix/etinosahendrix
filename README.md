@@ -10,7 +10,7 @@
 
 💼 **Let's Connect:**
 
-[![Linkedin](https://img.shields.io/badge/Etinosa%20Imafidon-blue?style=flat-square&logo=Linkedin&label=Linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
+[![Linkedin](https://img.shields.io/badge/Etinosa%20Imafidon-blue?style=flat-square&logo=Linkedin&label=Linkedin)](https://www.linkedin.com/in/etinosa-imafidon/)
 [![Gmail](https://img.shields.io/badge/etinosahendrix%40yahoo.com-red?style=flat-square&logo=Gmail&label=Email)](mailto:etinosahendrix@yahoo.com)
 
 ---
