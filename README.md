@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Etinosa Imafidon!</h1>
 
-<img src="https://github.com/yourusername/yourrepo/blob/main/banner.png" alt="Cybersecurity Banner">
+![Image](https://github.com/user-attachments/assets/ee7faeba-74c8-4f7b-a533-471105b77499)
 
 <p>I’m a Cybersecurity & Cloud Security Engineer with over 6 years of hands-on experience in fortifying IT infrastructures, leading threat detection and incident response operations, and aligning enterprise security strategies with standards such as ISO 27001, GDPR, and NIST. I’m passionate about protecting cloud environments (Azure & AWS), automating security tasks, and building cyber-resilient systems through compliance-driven policies and proactive threat intelligence.</p>
 
