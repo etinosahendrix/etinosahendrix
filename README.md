@@ -36,6 +36,12 @@
 
 ---
 
+💻 **System Administrator Projects**
+
+- **Microsoft Active Directory Home Lab** – [Active Directoy DC](https://github.com/etinosahendrix/Win-Server-AD-DC)
+
+---
+
 🛡️ **Incident Response & Compliance**
 
 - Developed and led ISO 27001 & GDPR compliance programs reducing incidents by 30%
