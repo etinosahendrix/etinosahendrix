@@ -38,7 +38,7 @@
 
 💻 **System Administrator Projects**
 
-- **Microsoft Active Directory Home Lab** – [Active Directoy DC](https://github.com/etinosahendrix/Win-Server-AD-DC)
+- **Microsoft Active Directory Home Lab** – [Active Directory DC](https://github.com/etinosahendrix/Win-Server-AD-DC)
 
 ---
 
