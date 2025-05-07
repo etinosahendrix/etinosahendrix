@@ -27,7 +27,7 @@
 
 🔐 **Cybersecurity Projects**
 
-- **SOC Deployment in Azure** – [Deploying a Honeynet for Live Threat Monitoring](https://github.com/yourusername/azure-honeynet-soc)
+- **SOC Deployment in Azure** – [Deploying a Honeynet for Live Threat Monitoring](https://github.com/etinosahendrix/HoneyPot-in-Azure)
 - **DevSecOps in AWS** – [Security Integration in CI/CD Pipelines](https://github.com/yourusername/devsecops-pipeline-aws)
 - **Active Directory Automation** – [User Onboarding with PowerShell](https://github.com/yourusername/ad-automation)
 - **Email Threat Investigation** – [Analyzing a Phishing Campaign](https://github.com/yourusername/phishing-analysis)
