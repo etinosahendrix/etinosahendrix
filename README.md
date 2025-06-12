@@ -31,7 +31,7 @@
 - **DevSecOps in AWS** – [Security Integration in CI/CD Pipelines](https://github.com/yourusername/devsecops-pipeline-aws)
 - **Active Directory Automation** – [User Onboarding with PowerShell](https://github.com/yourusername/ad-automation)
 - **Email Threat Investigation** – [Analyzing a Phishing Campaign](https://github.com/yourusername/phishing-analysis)
-- **SOC on VULTR** – [Real-Time Threat Detection with ELK Stack + Fleet](https://github.com/yourusername/soc-elk-stack)
+- **SOC on VULTR** – [Real-Time Threat Detection with ELK Stack + Fleet](https://github.com/etinosahendrix/Real-Time-Threat-Detection-with-ELK-Stack-Fleet)
 - **Intrusion Detection System** – [Snort IDS Setup](https://github.com/etinosahendrix/Snort-IDS-Setup)
 
 ---
