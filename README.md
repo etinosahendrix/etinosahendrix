@@ -32,7 +32,7 @@
 - **Active Directory Automation** – [User Onboarding with PowerShell](https://github.com/yourusername/ad-automation)
 - **Email Threat Investigation** – [Analyzing a Phishing Campaign](https://github.com/yourusername/phishing-analysis)
 - **SOC on VULTR** – [Real-Time Threat Detection with ELK Stack + Fleet](https://github.com/yourusername/soc-elk-stack)
-- **Intrusion Detection System** – [Snort IDS Setup](https://github.com/yourusername/snort-ids)
+- **Intrusion Detection System** – [Snort IDS Setup](https://github.com/etinosahendrix/Snort-IDS-Setup)
 
 ---
 
